@@ -1,16 +1,16 @@
-### Hi there 👋
+<h3 align="center"> Olá eu sou Marcos, seja bem vindo 👋</h3>
+<h5 align="center"> Sou desenvolvedor web, me especializando em front-end e apaixonado pelo mundo de DEV :computer:</h5> 
 
-<!--
-**MarcosSantosDev/MarcosSantosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/MarcosSantosDev/MarcosSantosDev/blob/master/assets/images/giphy.gif" alt="Animação"/>
+</p>
+ 
+- 🔭 I am currently working as a frelancer
+- 🌱 Focused on Javascript
+- ⚡ Soft Skills: React, Vue, Laravel, .NET core, NodeJS, PHP and Typescript.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">  📫 How to reach me:
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-MarcosSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcossantosdev/)](https://www.linkedin.com/in/marcossantosdev/) 
+[![Gmail Badge](https://img.shields.io/badge/-marcosadriano034@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosadriano034@gmail.com)](mailto:marcosadriano034@gmail.com)
+</p>
