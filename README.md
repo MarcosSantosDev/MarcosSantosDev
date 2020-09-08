@@ -1,6 +1,6 @@
 <h3 align="center"> Hello I'm Marcos, welcome 👋</h3>
 
-<h5 align="center"> I'm a web developer, specializing in front-end and passionate about the world of DEV :computer:</h5> 
+<h5 align="center"> I'm a web developer, seeking to specialize in front-end and passionate about the world of DEV :computer:</h5> 
 
 <p align="center">
   <img src="https://github.com/MarcosSantosDev/MarcosSantosDev/blob/master/assets/images/giphy.gif" alt="Animação"/>
