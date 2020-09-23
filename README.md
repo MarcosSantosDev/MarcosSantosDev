@@ -8,7 +8,7 @@
  
 - 🔭 I am currently working as a frelancer
 - 🌱 Focused on front-end
-- ⚡ Soft Skills: React, Vue, Laravel, .NET core, NodeJS, PHP and Typescript.
+- ⚡ Skills: React, Vue, Laravel, .NET core, NodeJS, PHP and Typescript.
 
 <p align="left">  📫 How to reach me:
  
