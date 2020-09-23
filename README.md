@@ -7,7 +7,7 @@
 </p>
  
 - 🔭 I am currently working as a frelancer
-- 🌱 Focused on front-end
+- 🌱 Focused in front-end
 - ⚡ Skills: React, Vue, Laravel, .NET core, NodeJS, PHP and Typescript.
 
 <p align="left">  📫 How to reach me:
