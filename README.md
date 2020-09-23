@@ -1,13 +1,13 @@
 <h3 align="center"> Hello I'm Marcos, welcome 👋</h3>
 
-<h5 align="center"> I'm a web developer passionate about the world of DEV seeking to specialize in front-end :computer:</h5> 
+<h5 align="center"> I'm a web developer passionate about the world of DEV seeking to specialize in JavaScript :computer:</h5> 
 
 <p align="center">
   <img src="https://github.com/MarcosSantosDev/MarcosSantosDev/blob/master/assets/images/giphy.gif" alt="Animação"/>
 </p>
  
 - 🔭 I am currently working as a frelancer
-- 🌱 Focused on Javascript
+- 🌱 Focused on front-end
 - ⚡ Soft Skills: React, Vue, Laravel, .NET core, NodeJS, PHP and Typescript.
 
 <p align="left">  📫 How to reach me:
