@@ -9,6 +9,7 @@
 - 🔭 I am currently working as a frelancer
 - 🌱 Focused in front-end
 - ⚡ Skills: React, Vue, Laravel, .NET core, NodeJS, PHP and Typescript.
+- :open_hands: I try to collaborate with the community with new knowledge articles that I acquire and on the stackoverflow when I can.
 
 <p align="left">  📫 How to reach me:
  
