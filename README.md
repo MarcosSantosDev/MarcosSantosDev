@@ -1,7 +1,6 @@
 <h3 align="center"> Hello I'm Marcos Santos 👋</h3>
+<h6 align="center"> I am a web developer passionate about the world of technology and fascinated by challenges, welcome to my profile. :computer:</h6>
 
-<h5> I am a web developer passionate about the world of technology and fascinated by challenges, welcome to my profile. :computer:</h5> 
- 
 - 🔭 I am currently working as a frelancer
 - 🌱 Focused in front-end
 - ⚡ Skills: React, Vue, Laravel, .NET core, NodeJS, PHP and Typescript.
