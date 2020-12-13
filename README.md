@@ -1,5 +1,11 @@
 <h3 align="center"> Hello I'm Marcos Santos 👋</h3>
 <h6 align="center"> I am a web developer passionate about the world of technology and fascinated by challenges, welcome to my profile. :computer:</h6>
+<p align="center">
+  <img 
+       style="max-width:100%;border-radius: 10px;"
+       src="https://github.com/MarcosSantosDev/MarcosSantosDev/blob/master/assets/images/giphy.gif" 
+  />
+</p>
 
 - 🔭 I am currently working as a frelancer
 - 🌱 Focused in front-end
