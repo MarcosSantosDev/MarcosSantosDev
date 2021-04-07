@@ -1,9 +1,9 @@
 ## Hello I'm Marcos Santos 👋
 
 <h6><i> I am a web developer passionate about the world of technology and fascinated by challenges, welcome to my profile.</i> :computer:</h6>
-
-- 🔭 I am currently working as a frelancer
-- 🌱 Focused in front-end
+- :nerd_face: I'm a Front-end Developer.
+- 🔭 I am currently working as a frelancer.
+- 🌱 Focused in Javascript.
 - ⚡ Skills: React, Vue, Laravel, .NET core, NodeJS, PHP and Typescript.
 - :open_hands: I try to collaborate with the community with new knowledge articles that I acquire and on the stackoverflow when I can.
 
