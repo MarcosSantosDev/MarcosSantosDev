@@ -3,7 +3,7 @@
 <h6><i> I am a web developer passionate about the world of technology and fascinated by challenges, welcome to my profile.</i> :computer:</h6>
 
 - :nerd_face: I'm a Front-end Developer.
-- 🔭 I am currently working as a freelancer at [Rethink](https://rethink.dev/).
+- 🔭 I am currently working as a Web Developer at [Rethink](https://rethink.dev/).
 - 🌱 Focused in Javascript.
 - ⚡ Skills: React, Vue, Typescript, NodeJS, PHP/Laravel and .NET core.
 - :open_hands: I try to collaborate with the community with new knowledge articles that I acquire and on the stackoverflow when I can.
