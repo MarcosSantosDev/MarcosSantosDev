@@ -1,5 +1,5 @@
 ## Hello I'm Marcos Santos 👋
-
+<img src="https://komarev.com/ghpvc/?username=MarcosSantosDev&label=Profile%20views&color=0e75b6&style=flat" alt="MarcosSantosDev" />
 <h6><i> I am a web developer passionate about the world of technology and fascinated by challenges, welcome to my profile.</i> :computer:</h6>
 
 - :nerd_face: I'm a Front-end Developer.
