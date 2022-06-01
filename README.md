@@ -1,11 +1,11 @@
 ## Hello I'm Marcos Santos 👋
 
-<h6>I am a web developer passionate about the world of technology and fascinated by challenges, welcome to my profile. :computer:</h6>
+<h6>I am a web developer passionate about the world of technology and fascinated by challenges, welcome to my profile.</h6>
 
-- :nerd_face: I'm a Front-end Developer.
-- 🔭 I am currently working as a Web Developer at [Ioasys](https://ioasys.com.br/).
-- 🌱 Focused in Javascript.
-- ⚡ Skills: Reactjs, Nextjs Vuejs, Typescript, NodeJS, PHP/Laravel and .NET core.
+- :tophat: I'm a Front-end Developer.
+- :briefcase: I am currently working as a Web Developer at [Ioasys](https://ioasys.com.br/).
+- :seedling: (:zap:) Focused in Javascript.
+- :computer: Skills: Reactjs, Nextjs Vuejs, Typescript, NodeJS, PHP/Laravel and .NET core.
 - :open_hands: I try to collaborate with the community with new knowledge articles that I acquire and on the stackoverflow when I can.
 
 <p align="left">  📫 How to reach me:
