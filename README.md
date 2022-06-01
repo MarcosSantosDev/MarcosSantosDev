@@ -1,6 +1,6 @@
 ## Hello I'm Marcos Santos 👋
 
-<h6><i> I am a web developer passionate about the world of technology and fascinated by challenges, welcome to my profile.</i> :computer:</h6>
+<h6>I am a web developer passionate about the world of technology and fascinated by challenges, welcome to my profile. :computer:</h6>
 
 - :nerd_face: I'm a Front-end Developer.
 - 🔭 I am currently working as a Web Developer at [Ioasys](https://ioasys.com.br/).
