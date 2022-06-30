@@ -1,7 +1,7 @@
 ## Hi, I'm Marcos, welcome to my profile 👋
 
 - :tophat: I'm a Front-end Developer.
-- :briefcase: I am currently working as a Web Developer at [IOasys](https://ioasys.com.br/).
+- :briefcase: I am currently working as a Web Developer at [IOASYS](https://ioasys.com.br/).
 - :seedling: (:zap:) Focused in Javascript.
 - :computer: Skills: Reactjs, Nextjs Vuejs, Typescript, NodeJS, PHP/Laravel and .NET core.
 - :open_hands: I try to collaborate with the community with new knowledge articles that I acquire and on the [stackoverflow](https://stackoverflow.com/users/12678269/marcos-santos-dev) when I can.
