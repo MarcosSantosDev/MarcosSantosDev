@@ -2,7 +2,6 @@
 
 - :tophat: I'm a Front-end Developer.
 - :open_hands: I try to collaborate with the community with new knowledge articles that I acquire and on the [stackoverflow](https://stackoverflow.com/users/12678269/marcossantosdev) when I can.
-- :briefcase: I am currently working as a Web Developer at [IOASYS](https://ioasys.com.br/).
 - :seedling: (:zap:) Focused in Javascript.
 - :brain: Knowledge in: `Reactjs`, `Nextjs`, `Vuejs`, `Typescript`, `NodeJS`, `PHP / Laravel` and `.NET core`.
 
