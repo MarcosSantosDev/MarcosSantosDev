@@ -32,13 +32,3 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-MarcosSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcossantosdev/)](https://www.linkedin.com/in/marcossantosdev/) 
 [![Gmail Badge](https://img.shields.io/badge/-marcosadriano034@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosadriano034@gmail.com)](mailto:marcosadriano034@gmail.com)
-
-<a href="https://stackoverflow.com/users/12678269/marcossantosdev">
-    <img
-        src="https://stackoverflow.com/users/flair/12678269.png?theme=dark"
-        width="208"
-        height="58"
-        alt="profile for MarcosSantosDev at Stack Overflow, Q&amp;for professional and enthusiast programmers"
-        title="profile for MarcosSantosDev at Stack Overflow, Q&amp;for professional and enthusiast programmers"
-    >
-</a>
